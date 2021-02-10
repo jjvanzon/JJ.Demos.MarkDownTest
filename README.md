@@ -1,4 +1,4 @@
 JJ.Demos.MarkDownTest
 ====================
 
-![Image in README](images/ImageInSubFolder.jpg)
+![Image in README](images/image-for-read-me.jpg)
