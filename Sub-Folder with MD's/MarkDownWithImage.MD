@@ -1,4 +1,4 @@
 MarkDown with Image
 ==================
 
-![Sample Image](images/SampleImage.jpg?raw=true)
+![Sample Image](/images/SampleImage.jpg?raw=true)
