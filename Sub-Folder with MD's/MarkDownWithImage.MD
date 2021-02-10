@@ -1,4 +1,4 @@
 Image in Sub Folder
 ==================
 
-![Image in Sub Folder](images/ImageInSubFolder2.jpg)
+![Image in Sub Folder](Images/ImageInSubFolder2.jpg)
