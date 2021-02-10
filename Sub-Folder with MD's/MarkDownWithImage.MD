@@ -1,4 +1,4 @@
-MarkDown with Image
+Image in Sub Folder
 ==================
 
-![Sample Image](images/SampleImage.jpg)
+![Image in Sub Folder](images/ImageInSubFolder.jpg)
